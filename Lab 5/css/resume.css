@@ -1,0 +1,29 @@
+H1 {
+  border-bottom: 5px #ff0000 solid;
+  text-align: center;
+  color: #ff0000;
+}
+
+div#right {
+  width: 25%;
+  border: #0000ff 2px solid;
+  padding: 0px;
+  margin: 0px;
+  float: right;
+}
+
+div#left {
+  width: 74.5%;
+  padding: 0px;
+  margin: 0px;
+  float: left;
+}
+
+H2 {
+  color: #0000ff;
+  border-bottom: #0000ff 3px solid;
+}
+
+P {
+  text-indent: 25px;
+}
