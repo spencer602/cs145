@@ -1,0 +1,64 @@
+
+
+#headerLogo {
+  width: 1000px;
+  height: 252px;
+  background-color: #ffffff;
+  object-fit: contain;
+}
+
+#navigationContainer {
+  width: 1000px;
+  height: 45px;
+}
+
+#navigation li {
+  float: left;
+  display: inline;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+#navigation a:link {
+  border-right-width: 5px;
+  display: block;
+  width: 100px;
+  padding-left: 0px;
+  margin-left: 0px;
+  text-decoration: none;
+  text-align: left;
+  font-family: "balboa-plus-fill", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #666666;
+}
+
+#footerBar {
+    width: 1000px;
+    height: 50px;
+    background-color: #495f2b
+}
+
+/*
+BODY COPY FONT choice 1
+font-family: adobe-caslon-pro, serif;
+font-weight: 400;
+font-style: normal;
+
+BODY COPY FONT choice 2 (same as logo)
+font-family: goudy-old-style, serif;
+font-weight: 400;
+font-style: normal;
+
+NAVIGATION FONT Choice 1
+font-family: balboa-plus-fill, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+NAVIGATION FONT Choice 2
+font-family: balboa-plus-inline, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+Could also all be used for headers*/

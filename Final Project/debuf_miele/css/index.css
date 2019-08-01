@@ -1,0 +1,44 @@
+#module1 {
+  width: 1000px;
+  height: 410px;
+}
+
+#module2 {
+  width: 1000px;
+  height: 310px;
+}
+
+#module2Images li {
+  list-style-type: none;
+  display: inline;
+}
+
+#module3 {
+  width: 1000px;
+  height: 310px;
+}
+
+#familyPhoto {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+#module3Contents li {
+  list-style-type: none;
+  display: block;
+}
+
+#familyHistory {
+  width: 200px;
+  height: 200px;
+}
+
+#module3 p {
+  display: block;
+
+}
+
+body {
+  background-color: #888888;
+}

@@ -1,0 +1,35 @@
+h1 {
+  background-color: #495f2b;
+  width: 1000px
+}
+
+#headerLogo {
+  width: 1000px;
+  height: 153px;
+  background-color: #ffffff;
+  object-fit: contain;
+}
+
+#navigationContainer {
+  width: 1000px;
+  height: 45px;
+  background-color: #dbb99b;
+}
+
+#navigation li {
+  float: left;
+  display: inline;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+#navigation a:link {
+  border-right-width: 5px;
+  display: block;
+  width: 100px;
+  padding-left: 0px;
+  margin-left: 0px;
+  text-decoration: none;
+  text-align: left;
+}
